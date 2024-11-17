@@ -1,4 +1,33 @@
-<h2 align="left">Hi 👋! My name is Deepankar and I'm a Front-end Developer , from India</h2>
+[![MasterHead](https://raw.githubusercontent.com/zephyrus21/zephyrus21/refs/heads/master/my_banner.png)](https://soloist.ai/deepankarsahoo)
+
+<h1 align="center">Hi 👋, I'm Deepankar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" height="200" ;" src="https://media1.tenor.com/m/MBi81kQ7aU0AAAAC/anime-computer-gurl.gif"  />
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebydeepankar&label=Profile%20views&color=0e75b6&style=flat" alt="codebydeepankar" /> </p>
+
+- 🌱 I’m currently learning **MERN STACK**
+
+- 👨‍💻 All of my projects are available at [https://soloist.ai/deepankarsahoo](https://soloist.ai/deepankarsahoo)
+
+- 💬 Ask me about **React, JS, JAVA**
+
+- 📫 How to reach me **deepankarsahoo68@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1az13W4DBNFOZ6_Mu5DOiItPfbcpUYL4K/view?usp=drivesdk](https://drive.google.com/file/d/1az13W4DBNFOZ6_Mu5DOiItPfbcpUYL4K/view?usp=drivesdk)
+
+- ⚡ Fun fact **I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/deepankar-sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="deepankar-sahoo" height="30" width="40" /></a>
+<a href="https://twitter.com/codebydeepankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codebydeepankar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepankar-sahoo-68274a268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepankar-sahoo-68274a268" height="30" width="40" /></a>
+<a href="https://instagram.com/code_by_deepankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_by_deepankar" height="30" width="40" /></a>
+</p>
+
+
 
 ###
 
@@ -9,7 +38,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/MBi81kQ7aU0AAAAC/anime-computer-gurl.gif"  />
+
 
 ###
 
@@ -54,8 +83,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/CodeByDeepankar/CodeByDeepankar/output/snake.svg" alt="Snake animation" />
 
 ###
