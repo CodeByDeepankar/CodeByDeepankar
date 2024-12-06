@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/zephyrus21/zephyrus21/refs/heads/master/my_banner.png)](https://soloist.ai/deepankarsahoo)
 
 <h1 align="center">Hi 👋, I'm Deepankar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" height="200" ;" src="https://media1.tenor.com/m/MBi81kQ7aU0AAAAC/anime-computer-gurl.gif"  />
 
 
@@ -32,22 +32,6 @@
 
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
 
 ###
 
