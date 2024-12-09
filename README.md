@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Deepankar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<div style="width: 90vw; display:flex; justify-content:center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=100&size=25&height=30&repeat=false&vCenter=true&lines=I+am+a" style="height:auto;text-align:center;"></img>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&vCenter=true&size=25&width=150&height=30&lines=Programmer;Developer;Designer;" style="height:auto;text-align:center;"></img>
+</div>
 <img align="right" height="200" ;" src="https://media1.tenor.com/m/MBi81kQ7aU0AAAAC/anime-computer-gurl.gif"  />
 
 
@@ -19,8 +23,63 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 📝  Programming Languages:
+
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C.svg" />
+<br/>
+<br/>
+<br/>
+
+### 🖼️  Frameworks and Tools:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/React.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/CSS.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
+
+<br/>
+<br/>
+<br/>
+
+### 🛠️  DevOps Tools:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/AWS.svg" />
+<br/>
+<br/>
+<br/>
+
+### 📚  Databases:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/AWS.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
+
+<br/>
+<br/>
+<br/>
+
+### 🎨  Design:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" />
+<br/>
+<br/>
+<br/>
+
+### 💻  IDE:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
+<br/>
+<br/>
+<br/>
 
 
 ###
@@ -35,26 +94,10 @@
 
 ###
 
-<div align="left">
-  <a href="https://codepen.io/Deepankar-Sahoo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/deepankar-sahoo-68274a268/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/CodeByDeepankar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/28339236/deepankar-sahoo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://medium.com/@deepankarsahoo68" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://instagram.com/code_by_deepankar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepankar-sahoo-68274a268/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70" target="_blank"></a>
+<a href="https://x.com/CodeByDeepankar"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70" target="_blank"></a>
+<a href="https://instagram.com/code_by_deepankar"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70" target="_blank"></a>
+
 
 ###
 <div align="center">
