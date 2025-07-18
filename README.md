@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=100&size=25&height=30&repeat=false&vCenter=true&lines=I+am+a" style="height:auto;text-align:center;"></img>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&vCenter=true&size=25&width=150&height=30&lines=Programmer;Developer;Designer;" style="height:auto;text-align:center;"></img>
 </div>
-<img align="right" height="200" ;" src="https://media1.tenor.com/m/MBi81kQ7aU0AAAAC/anime-computer-gurl.gif"  />
+<img align="right" height="200" ;" src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/refs/heads/main/public/gifs/pic14.gif"  />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebydeepankar&label=Profile%20views&color=0e75b6&style=flat" alt="codebydeepankar" /> </p>
