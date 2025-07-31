@@ -23,7 +23,11 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">
+  <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle" />
+  <span style="margin-left:6px;">Tech Stack :</span>
+</h2>
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
