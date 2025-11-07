@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/zephyrus21/zephyrus21/refs/heads/master/my_banner.png)](https://soloist.ai/deepankarsahoo)
+[![MasterHead](https://raw.githubusercontent.com/zephyrus21/zephyrus21/refs/heads/master/my_banner.png)](https://deepankarsahoo.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Deepankar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [Portfolio](deepankarsahoo.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://deepankarsahoo.vercel.app)
 
 - 💬 Ask me about **MERN**
 
