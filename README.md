@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://soloist.ai/deepankarsahoo](https://soloist.ai/deepankarsahoo)
+- 👨‍💻 All of my projects are available at [Portfolio](deepankarsahoo.vercel.app)
 
 - 💬 Ask me about **MERN**
 
