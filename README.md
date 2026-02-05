@@ -30,14 +30,12 @@
 <img height="42px" align="right" src="https://icon.icepanel.io/Technology/svg/React.svg" />
 <img height="42px" align="right" src="https://icon.icepanel.io/Technology/svg/Redux.svg" />
 <img height="42px" align="right" src="https://icon.icepanel.io/Technology/svg/GraphQL.svg" />
-<img height="42px" align="right" src="https://icon.icepanel.io/Technology/svg/Svelte.svg" />
 <img height="42px" align="right" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Spring.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" />
 <h3 align="center">&lt;-Frameworks-></h3>
 <br/>
 <br/>
