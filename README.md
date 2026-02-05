@@ -1,14 +1,12 @@
-[![MasterHead](https://raw.githubusercontent.com/zephyrus21/zephyrus21/refs/heads/master/my_banner.png)](https://deepankar.tech/)
-
+[![MasterHead](github-header-banner.png)](https://deepankar.tech/)
+<p align="left">  </p>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=codebydeepankar&label=Profile%20views&color=0e75b6&style=flat" alt="codebydeepankar" /></p>
-
-<h1 align="center">Hi 👋, I'm Deepankar</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<div style="width: 90vw; display:flex; justify-content:center;">
+<div align="left" style="width: 90vw; display:flex; justify-content:center;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=100&size=25&height=30&repeat=false&vCenter=true&lines=I+am+a" style="height:auto;text-align:center;"></img>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&vCenter=true&size=25&width=150&height=30&lines=Programmer;Developer;Designer;" style="height:auto;text-align:center;"></img>
 </div>
-
+<br/>
+<br/>
 
 <p align="left">  </p>
 
@@ -119,8 +117,8 @@
 
 ###
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/deepankarsh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/deepankarsh" /></a></p>
+
+<p><a href="https://www.buymeacoffee.com/deepankarsh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/deepankarsh" /></a></p>
 
 ###
 <img src="https://raw.githubusercontent.com/zephyrus21/zephyrus21/master/footer.svg">
