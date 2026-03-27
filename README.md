@@ -101,6 +101,8 @@
 <a href="https://instagram.com/code_by_deepankar"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70" target="_blank"></a>
 
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebydeepankar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
 ###
 <div align="center">
   
