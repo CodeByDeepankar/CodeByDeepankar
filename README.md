@@ -87,9 +87,7 @@
 <div align="center">
     
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codebydeepankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codebydeepankar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codebydeepankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebydeepankar&theme=dark" alt="GitHub Streak" />
 
 
 
